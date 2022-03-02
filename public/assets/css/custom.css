@@ -1,0 +1,16 @@
+.select2-close-mask{
+  z-index: 2099;
+}
+.select2-dropdown{
+  z-index: 3051;
+}
+.modal{
+  z-index: 3000 !important;
+}
+.horizontal-content{
+  margin-top: 70px !important;
+}
+.img-display{
+  min-height: 100px;
+  max-height: 100px;
+}
